@@ -1,0 +1,6 @@
+C:/Users/User/EE_project_tracking_without_GPS filter=lfs diff=lfs merge=lfs -text
+lightglue filter=lfs diff=lfs merge=lfs -text
+lightglue/README.md filter=lfs diff=lfs merge=lfs -text
+lightglue/config.json filter=lfs diff=lfs merge=lfs -text
+lightglue/model.safetensors filter=lfs diff=lfs merge=lfs -text
+lightglue/preprocessor_config.json filter=lfs diff=lfs merge=lfs -text
