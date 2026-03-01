@@ -76,14 +76,14 @@ Update the IP addresses in the following Python files:
    - Set the `address` variable to the IP:Port from **IP Webcam**
    
    ```python
-   address = "192.168.1.XXX:XXXX"  # From IP Webcam
+   address = "192.168.1.XXX:YYYY"  # From IP Webcam
    ```
 
 3. **`classifier.py`**
    - Set the `address` variable to the IP from **ESP32** (Step 3)
    
    ```python
-   address = "192.168.1.XXX"  # From ESP32 Serial Monitor
+   address = "192.168.1.ZZZ"  # From ESP32 Serial Monitor
    ```
 
 ### Step 6: Launch the System
