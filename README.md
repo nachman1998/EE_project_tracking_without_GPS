@@ -17,7 +17,14 @@ setting up the software
 step 5: In "main.py" put the ip+port from "Sensor Server" in adrress variable in code.
 and in "homography_correction.py" put the ip+port from "IP Wabcam" in adrress variable in code.
 and in "classifier.py" put the ip from "step 3" in adrress variable in code.
-step 6:open four treminals. first on one terminal run "real_time_plot.py".
-then on 
+step 6: open four treminals. first on one terminal run "real_time_plot.py".
+then on two others run "classifier.py","homography_correction.py".
+then run on last treminal "main.py".
+
+using the devices
+step 7: put phone on foot, the esp32 camera on chest with clear view of the lower half body.
+step 8: start walking.
+step 9: for calculating yaw correction. in "main.py" terminal press "c" then as you rotate take overlapping photos in diraction of rotation by pressing "z".
+then perss "x" for calculating full rotation and then "n" for correcting in practice
 
 
