@@ -129,6 +129,6 @@ To calculate and apply yaw correction:
 
 1. In the `main.py` terminal, press **`c`** to start calibration mode
 2. Rotate your body and take overlapping photos by pressing **`z`** during rotation
-3. Press **`x`** to calculate the full rotation
+3. Press **`x`** to save 
 4. Press **`n`** to apply the correction in practice
 
